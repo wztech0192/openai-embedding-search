@@ -1,6 +1,7 @@
 // write a nodejs program that read a json file and print it on the console
 
 const fs = require("fs");
+const fetchEmbedding = require("./fetchEmbedding.js");
 
 fs.readFile("serviceRequests.json", "utf8", async (err, data) => {
   if (err) throw err;
@@ -13,18 +14,7 @@ fs.readFile("serviceRequests.json", "utf8", async (err, data) => {
     if (!service.embedding) {
       try {
         console.log("Process embedding for service: " + service.typeCode.code);
-        const payloads = await fetch("https://api.openai.com/v1/embeddings", {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-            Authorization:
-              "Bearer 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",
-          },
-          body: JSON.stringify({
-            input: service.typeCode.name,
-            model: "text-embedding-ada-002",
-          }),
-        });
+        const payloads = await fetchEmbedding(service.typeCode.name);
         service.embedding = await payloads.json();
       } catch (ex) {
         console.error(ex);

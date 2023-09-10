@@ -1,0 +1,962 @@
+[
+    {
+        "typeCode": {
+            "name": "Animal In Trap Complaint",
+            "code": "EBD"
+        },
+        "name": "Animal In Trap Complaint",
+        "articleId": "ka0t00000000799AAA"
+    },
+    {
+        "typeCode": {
+            "name": "Bee/Wasp Removal",
+            "code": "SGG"
+        },
+        "name": "Bee/Wasp Removal"
+    },
+    {
+        "typeCode": {
+            "name": "Coyote Interaction Complaint",
+            "code": "CIAC"
+        },
+        "name": "Coyote Complaint",
+        "articleId": "ka0t00000000757AAA"
+    },
+    {
+        "typeCode": {
+            "name": "Dead Animal Pick-Up Request",
+            "code": "SGQ"
+        },
+        "name": "Dead Animal Pickup Request",
+        "articleId": "ka0t0000000075CAAQ"
+    },
+    {
+        "typeCode": {
+            "name": "Dead Bird",
+            "code": "SGV"
+        },
+        "name": "Dead Bird"
+    },
+    {
+        "typeCode": {
+            "name": "Nuisance Animal Complaint",
+            "code": "EAB"
+        },
+        "name": "Nuisance Animal Complaint",
+        "articleId": "ka0t00000000778AAA"
+    },
+    {
+        "typeCode": {
+            "name": "Report an Injured Animal",
+            "code": "EAQ"
+        },
+        "name": "Report an Injured Animal",
+        "articleId": "ka0t0000000076PAAQ"
+    },
+    {
+        "typeCode": {
+            "name": "Stray Animal Complaint",
+            "code": "EAE"
+        },
+        "name": "Stray Animal Complaint",
+        "articleId": "ka0t0000000076oAAA"
+    },
+    {
+        "typeCode": {
+            "name": "Vicious Animal Complaint",
+            "code": "EAF"
+        },
+        "name": "Vicious Animal Complaint",
+        "articleId": "ka08z0000000HFIAA2"
+    },
+    {
+        "typeCode": {
+            "name": "Pet Wellness Check Request",
+            "code": "PET"
+        },
+        "name": "Pet Wellness Check Request",
+        "articleId": "ka0t0000000077hAAA"
+    },
+    {
+        "typeCode": {
+            "name": "Rodent Baiting/Rat Complaint",
+            "code": "SGA"
+        },
+        "name": "Rodent Baiting Request/Rat Complaint",
+        "articleId": "ka0t000000006rUAAQ"
+    },
+    {
+        "typeCode": {
+            "name": "Cable TV Complaint",
+            "code": "OCC"
+        },
+        "name": "Cable TV Complaint",
+        "articleId": "ka0t0000000074iAAA"
+    },
+    {
+        "typeCode": {
+            "name": "Consumer Fraud Complaint",
+            "code": "CSF"
+        },
+        "name": "Consumer Fraud Complaint",
+        "articleId": "ka0t00000000752AAA"
+    },
+    {
+        "typeCode": {
+            "name": "Consumer Retail Business Complaint",
+            "code": "CST"
+        },
+        "name": "Consumer Retail Store Complaint"
+    },
+    {
+        "typeCode": {
+            "name": "Gas Station and Storage Tank Complaint",
+            "code": "VAT3"
+        },
+        "name": "Gas Station and Storage Tank Complaint"
+    },
+    {
+        "typeCode": {
+            "name": "Inaccurate Fuel Pump Complaint",
+            "code": "FPC"
+        },
+        "name": "Inaccurate Fuel Pump",
+        "articleId": "ka0t0000000075lAAA"
+    },
+    {
+        "typeCode": {
+            "name": "Inaccurate Retail Scales Complaint",
+            "code": "INR"
+        },
+        "name": "Inaccurate Retail Scales Complaint",
+        "articleId": "ka0t0000000076KAAQ"
+    },
+    {
+        "typeCode": {
+            "name": "Outdated Merchandise Complaint",
+            "code": "ODM"
+        },
+        "name": "Outdated Merchandise Complaint"
+    },
+    {
+        "typeCode": {
+            "name": "Public Vehicle/Valet Complaint",
+            "code": "CSP"
+        },
+        "name": "Public Vehicle/Valet Complaint"
+    },
+    {
+        "typeCode": {
+            "name": "Restaurant Complaint",
+            "code": "HFB"
+        },
+        "name": "Restaurant Complaint",
+        "articleId": "ka0t0000000075WAAQ"
+    },
+    {
+        "typeCode": {
+            "name": "Sidewalk Café/Outdoor Dining Complaint",
+            "code": "CAFE"
+        },
+        "name": "Sidewalk Cafe Complaint",
+        "articleId": "ka0t0000000078kAAA"
+    },
+    {
+        "typeCode": {
+            "name": "Tanning and Body Art Complaint",
+            "code": "TABA"
+        },
+        "name": "Tanning and Body Art Complaint"
+    },
+    {
+        "typeCode": {
+            "name": "Discrimination/Hate Crimes Assistance Request",
+            "code": "DISH"
+        },
+        "name": "Discrimination/Hate Crime Assistance Request",
+        "articleId": "ka0t0000000075vAAA"
+    },
+    {
+        "typeCode": {
+            "name": "Domestic Workers",
+            "code": "DW"
+        },
+        "name": "Domestics Workers",
+        "articleId": "ka08z00000006ilAAA"
+    },
+    {
+        "typeCode": {
+            "name": "Fair Workweek",
+            "code": "FWW"
+        },
+        "name": "Fair Workweek",
+        "articleId": "ka08z00000006j0AAA"
+    },
+    {
+        "typeCode": {
+            "name": "Paid Sick Leave Violation",
+            "code": "PSL"
+        },
+        "name": "Paid Sick Leave Violation",
+        "articleId": "ka08z00000006igAAA"
+    },
+    {
+        "typeCode": {
+            "name": "Wage Complaint",
+            "code": "MWC"
+        },
+        "name": "Wage Complaint",
+        "articleId": "ka08z00000006j5AAA"
+    },
+    {
+        "typeCode": {
+            "name": "Groceries",
+            "code": "HFC"
+        },
+        "name": "Grocery Complaint"
+    },
+    {
+        "typeCode": {
+            "name": "Health Club",
+            "code": "HEE"
+        },
+        "name": "Health Club Complaint"
+    },
+    {
+        "typeCode": {
+            "name": "Hotel/Motel - Health Department",
+            "code": "HEA"
+        },
+        "name": "Hotel/Motel – Health Department Complaint"
+    },
+    {
+        "typeCode": {
+            "name": "Licensed Pharmaceutical Representative Complaint",
+            "code": "LPRC"
+        },
+        "name": "Licensed Pharmaceutical Representative Complaint",
+        "articleId": "ka0t0000000076eAAA"
+    },
+    {
+        "typeCode": {
+            "name": "Smoking: Non-Food Establishment",
+            "code": "HFS"
+        },
+        "name": "Smoking Complaint: Non-Food Establishment",
+        "articleId": "ka0t00000004XBzAAM"
+    },
+    {
+        "typeCode": {
+            "name": "Tobacco - General Complaint",
+            "code": "BAG"
+        },
+        "name": "Tobacco - General Complaint",
+        "articleId": "ka0t00000000794AAA"
+    },
+    {
+        "typeCode": {
+            "name": "Water Lead Test Kit Request",
+            "code": "WCA2"
+        },
+        "name": "Water Lead Test Kit Request",
+        "articleId": "ka0t00000004X4ZAAU"
+    },
+    {
+        "typeCode": {
+            "name": "Water Lead Test Visit Request",
+            "code": "WCA3"
+        },
+        "name": "Water Lead Test Visit Request",
+        "articleId": "ka0t00000004X4eAAE"
+    },
+    {
+        "typeCode": {
+            "name": "Water Quality Concern",
+            "code": "WCA"
+        },
+        "name": "Water Quality Concern",
+        "articleId": "ka0t00000004X4PAAU"
+    },
+    {
+        "typeCode": {
+            "name": "Business Complaints",
+            "code": "RBL"
+        },
+        "name": "Business Complaints / Reopening Issue"
+    },
+    {
+        "typeCode": {
+            "name": "Cab Feedback",
+            "code": "CSC"
+        },
+        "name": "Cab Feedback",
+        "articleId": "ka0t000000006s8AAA"
+    },
+    {
+        "typeCode": {
+            "name": "Ridesharing Complaint",
+            "code": "TNP"
+        },
+        "name": "Ridesharing Complaint",
+        "articleId": "ka0t00000000781AAA"
+    },
+    {
+        "typeCode": {
+            "name": "Senior Well-Being Check Request",
+            "code": "TBH"
+        },
+        "name": "Senior Well-Being Check Request",
+        "articleId": "ka0t0000000079sAAA"
+    },
+    {
+        "typeCode": {
+            "name": "Benefit Access Assistance - Disabilities",
+            "code": "DAC"
+        },
+        "name": "Benefit Access Assistance - Disabilities"
+    },
+    {
+        "typeCode": {
+            "name": "Accessible Home Modifications - Disabilities",
+            "code": "DAH"
+        },
+        "name": "Accessible Home Modifications"
+    },
+    {
+        "typeCode": {
+            "name": "Housing Information - Disabilities",
+            "code": "DAS"
+        },
+        "name": "Housing Information - Disabilities"
+    },
+    {
+        "typeCode": {
+            "name": "In-Home Services – Disabilities",
+            "code": "DAI"
+        },
+        "name": "In-Home Services - Disabilities"
+    },
+    {
+        "typeCode": {
+            "name": "Utility/Energy Assistance - Disabilities",
+            "code": "DAU"
+        },
+        "name": "Utility/Energy Assistance - Disabilities"
+    },
+    {
+        "typeCode": {
+            "name": "Transportation Assistance – Disabilities",
+            "code": "DAT"
+        },
+        "name": "Transportation Assistance - Disabilities"
+    },
+    {
+        "typeCode": {
+            "name": "Fly Dumping Complaint",
+            "code": "SDR"
+        },
+        "name": "Fly Dumping Complaint",
+        "articleId": "ka0t0000000076FAAQ"
+    },
+    {
+        "typeCode": {
+            "name": "Clean Vacant Lot Request",
+            "code": "SCT"
+        },
+        "name": "Clean Vacant Lot Request",
+        "articleId": "ka0t000000006r5AAA"
+    },
+    {
+        "typeCode": {
+            "name": "Garbage Cart Maintenance",
+            "code": "SIE"
+        },
+        "name": "Garbage Cart Maintenance",
+        "articleId": "ka0t000000006rPAAQ"
+    },
+    {
+        "typeCode": {
+            "name": "Missed Garbage Pick-Up Complaint",
+            "code": "SCC"
+        },
+        "name": "Missed Garbage Pick-Up Complaint",
+        "articleId": "ka0t00000000773AAA"
+    },
+    {
+        "typeCode": {
+            "name": "Sanitation Code Violation",
+            "code": "SCB"
+        },
+        "name": "Sanitation Code Violation",
+        "articleId": "ka0t0000000078LAAQ"
+    },
+    {
+        "typeCode": {
+            "name": "Wire Basket Request",
+            "code": "SCS"
+        },
+        "name": "Wire Garbage Basket Request"
+    },
+    {
+        "typeCode": {
+            "name": "Yard Waste Pick-Up Request",
+            "code": "SCQ"
+        },
+        "name": "Yard Waste Pick-Up Request",
+        "articleId": "ka0t0000000079xAAA"
+    },
+    {
+        "typeCode": {
+            "name": "Blue Recycling Cart",
+            "code": "SRRC"
+        },
+        "name": "Blue Recycling Cart",
+        "articleId": "ka0t00000004XC4AAM"
+    },
+    {
+        "typeCode": {
+            "name": "Recycling Inspection Request",
+            "code": "SCX"
+        },
+        "name": "Recycling Inspection Request",
+        "articleId": "ka0t0000000078BAAQ"
+    },
+    {
+        "typeCode": {
+            "name": "Recycling Pick Up",
+            "code": "SRRP"
+        },
+        "name": "Recycling Pick Up",
+        "articleId": "ka08z0000000HnJAAU"
+    },
+    {
+        "typeCode": {
+            "name": "Pushcart Food Vendor Complaint",
+            "code": "CORNVEND"
+        },
+        "name": "Pushcart Food Vendor Complaint",
+        "articleId": "ka0t00000000786AAA"
+    },
+    {
+        "typeCode": {
+            "name": "Lead Inspection Request",
+            "code": "HDF"
+        },
+        "name": "Lead Inspection Request",
+        "articleId": "ka0t0000000076ZAAQ"
+    },
+    {
+        "typeCode": {
+            "name": "Air Pollution, Odor or Dust Complaint",
+            "code": "VAZ"
+        },
+        "name": "Air Pollution, Odor or Dust Complaint"
+    },
+    {
+        "typeCode": {
+            "name": "Asbestos Complaint",
+            "code": "VAT"
+        },
+        "name": "Asbestos Complaint"
+    },
+    {
+        "typeCode": {
+            "name": "Construction & Demolition Complaint",
+            "code": "VAT5"
+        },
+        "name": "Construction & Demolition Complaint"
+    },
+    {
+        "typeCode": {
+            "name": "Equipment Noise Complaint",
+            "code": "VAH"
+        },
+        "name": "Noise Complaint"
+    },
+    {
+        "typeCode": {
+            "name": "Spills or Dumping in Natural Water Ways",
+            "code": "VAT4"
+        },
+        "name": "Spills or Dumping in Natural Water Ways"
+    },
+    {
+        "typeCode": {
+            "name": "Daycare Center",
+            "code": "HHC"
+        },
+        "name": "Daycare Center Complaint"
+    },
+    {
+        "typeCode": {
+            "name": "Smokeless Tobacco at Sports Event Complaint",
+            "code": "HFF"
+        },
+        "name": "Smokeless Tobacco Use Complaint"
+    },
+    {
+        "typeCode": {
+            "name": "Building Violation",
+            "code": "BBA"
+        },
+        "name": "Building Violation",
+        "articleId": "ka0t000000006s3AAA"
+    },
+    {
+        "typeCode": {
+            "name": "Buildings - Boiler Violation",
+            "code": "BBB"
+        },
+        "name": "Buildings - Boiler Violation"
+    },
+    {
+        "typeCode": {
+            "name": "Buildings - Electrical Violation",
+            "code": "BBE"
+        },
+        "name": "Buildings - Electrical Violation"
+    },
+    {
+        "typeCode": {
+            "name": "Buildings - Elevator Violation",
+            "code": "BBH"
+        },
+        "name": "Buildings - Elevator Violation"
+    },
+    {
+        "typeCode": {
+            "name": "Buildings - Furnace Violation",
+            "code": "BBP"
+        },
+        "name": "Buildings - Furnace Violation"
+    },
+    {
+        "typeCode": {
+            "name": "Buildings - Plumbing Violation",
+            "code": "BBC"
+        },
+        "name": "Buildings - Plumbing Violation",
+        "articleId": "ka08z0000000HnxAAE"
+    },
+    {
+        "typeCode": {
+            "name": "No Air Conditioning",
+            "code": "NAC"
+        },
+        "name": "No Air Conditioning"
+    },
+    {
+        "typeCode": {
+            "name": "No Building Permit and Construction Violation",
+            "code": "BBD"
+        },
+        "name": "No Building Permit and Construction Violation",
+        "articleId": "ka0t0000000077wAAA"
+    },
+    {
+        "typeCode": {
+            "name": "Vacant/Abandoned Building Complaint",
+            "code": "BBK"
+        },
+        "name": "Vacant/Abandoned Building Complaint",
+        "articleId": "ka0t0000000079dAAA"
+    },
+    {
+        "typeCode": {
+            "name": "Graffiti Removal Request",
+            "code": "GRAF"
+        },
+        "name": "Graffiti Removal Request",
+        "articleId": "ka0t0000000075qAAA"
+    },
+    {
+        "typeCode": {
+            "name": "Aircraft Noise Complaint",
+            "code": "AVN"
+        },
+        "name": "Aircraft Noise Complaint",
+        "articleId": "ka0t000000006rFAAQ"
+    },
+    {
+        "typeCode": {
+            "name": "Low Water Pressure Complaint",
+            "code": "WBK"
+        },
+        "name": "Low Water Pressure Complaint"
+    },
+    {
+        "typeCode": {
+            "name": "No Solicitation Complaint",
+            "code": "NOSOLCPP"
+        },
+        "name": "No Solicitation Complaint",
+        "articleId": "ka0t0000000078uAAA"
+    },
+    {
+        "typeCode": {
+            "name": "No Water Complaint",
+            "code": "WBJ"
+        },
+        "name": "No Water Complaint",
+        "articleId": "ka0t0000000079iAAA"
+    },
+    {
+        "typeCode": {
+            "name": "Renters and Foreclosure Complaint",
+            "code": "RFC"
+        },
+        "name": "Renters and Foreclosures Complaint",
+        "articleId": "ka0t0000000075gAAA"
+    },
+    {
+        "typeCode": {
+            "name": "Shared Housing/Vacation Rental Complaint",
+            "code": "SHVR"
+        },
+        "name": "Shared Housing/Vacation Rental Complaint",
+        "articleId": "ka0t0000000078fAAA"
+    },
+    {
+        "typeCode": {
+            "name": "Water in Basement Complaint",
+            "code": "AAF"
+        },
+        "name": "Water in Basement Complaint",
+        "articleId": "ka08z0000000HnTAAU"
+    },
+    {
+        "typeCode": {
+            "name": "Bungalow/Vintage Home Information Request",
+            "code": "BUNGALOW"
+        },
+        "name": "Bungalow Rehab/Purchase Info Request",
+        "articleId": "ka0t00000000760AAA"
+    },
+    {
+        "typeCode": {
+            "name": "Home Buyer Program Info Request",
+            "code": "HOP"
+        },
+        "name": "Home Buyer Program Info Request",
+        "articleId": "ka0t00000000765AAA"
+    },
+    {
+        "typeCode": {
+            "name": "Landlord/Tenant Info Request",
+            "code": "MTO"
+        },
+        "name": "Landlord/Tenant Info Request",
+        "articleId": "ka0t0000000076UAAQ"
+    },
+    {
+        "typeCode": {
+            "name": "Commercial Fire Safety Inspection Request",
+            "code": "FAC"
+        },
+        "name": "Commercial Fire Safety Inspection Request",
+        "articleId": "ka0t0000000075bAAA"
+    },
+    {
+        "typeCode": {
+            "name": "Porch Inspection Request",
+            "code": "BPI"
+        },
+        "name": "Porch Inspection Request",
+        "articleId": "ka0t0000000077rAAA"
+    },
+    {
+        "typeCode": {
+            "name": "Clean and Green Program Request",
+            "code": "NAA"
+        },
+        "name": "Clean and Green Program Request",
+        "articleId": "ka0t00000004XCEAA2"
+    },
+    {
+        "typeCode": {
+            "name": "Weed Removal Request",
+            "code": "SCP"
+        },
+        "name": "Weed Removal Request",
+        "articleId": "ka0t0000000079nAAA"
+    },
+    {
+        "typeCode": {
+            "name": "Tree Debris Clean-Up Request",
+            "code": "SEL"
+        },
+        "name": "Tree Debris Clean-Up Request",
+        "articleId": "ka0t0000000079EAAQ"
+    },
+    {
+        "typeCode": {
+            "name": "Tree Planting Request",
+            "code": "SED"
+        },
+        "name": "Tree Planting Request",
+        "articleId": "ka0t0000000079JAAQ"
+    },
+    {
+        "typeCode": {
+            "name": "Tree Removal Request",
+            "code": "SEE"
+        },
+        "name": "Tree Removal Request",
+        "articleId": "ka0t0000000079OAAQ"
+    },
+    {
+        "typeCode": {
+            "name": "Tree Trim Request (NO LONGER BEING ACCEPTED)",
+            "code": "SEF"
+        },
+        "name": "Tree Trim Request",
+        "articleId": "ka08z0000000ByeAAE"
+    },
+    {
+        "typeCode": {
+            "name": "Tobacco - Sale to Minors Complaint",
+            "code": "BAM"
+        },
+        "name": "Tobacco - Sale to Minors Complaint",
+        "articleId": "ka0t0000000075RAAQ"
+    },
+    {
+        "typeCode": {
+            "name": "Senior Information and Assistance Request",
+            "code": "JAI"
+        },
+        "name": "Senior Information and Assistance Request",
+        "articleId": "ka0t0000000078VAAQ"
+    },
+    {
+        "typeCode": {
+            "name": "Senior Related Literature Request",
+            "code": "JAC"
+        },
+        "name": "Senior Related Literature Request",
+        "articleId": "ka0t0000000078QAAQ"
+    },
+    {
+        "typeCode": {
+            "name": "Alley Pothole Complaint",
+            "code": "PHB"
+        },
+        "name": "Alley Pothole Complaint",
+        "articleId": "ka0t000000006reAAA"
+    },
+    {
+        "typeCode": {
+            "name": "Pothole in Street Complaint",
+            "code": "PHF"
+        },
+        "name": "Pothole in Street Complaint",
+        "articleId": "ka08z0000000HKlAAM"
+    },
+    {
+        "typeCode": {
+            "name": "Alley Sewer Inspection Request",
+            "code": "AAI"
+        },
+        "name": "Alley Sewer Inspection Request",
+        "articleId": "ka0t000000006rjAAA"
+    },
+    {
+        "typeCode": {
+            "name": "Sewer Cave-In Inspection Request",
+            "code": "AAD"
+        },
+        "name": "Sewer Cave-In Inspection Request",
+        "articleId": "ka08z0000000HndAAE"
+    },
+    {
+        "typeCode": {
+            "name": "Sewer Cleaning Inspection Request",
+            "code": "CHECKFOR"
+        },
+        "name": "Sewer Cleaning Inspection Request",
+        "articleId": "ka0t0000000078aAAA"
+    },
+    {
+        "typeCode": {
+            "name": "Water On Street Complaint",
+            "code": "AAE"
+        },
+        "name": "Water on Street Complaint"
+    },
+    {
+        "typeCode": {
+            "name": "Open Fire Hydrant Complaint",
+            "code": "WBT"
+        },
+        "name": "Open Fire Hydrant Complaint",
+        "articleId": "ka0t0000000077DAAQ"
+    },
+    {
+        "typeCode": {
+            "name": "Protected Bike Lane - Debris Removal",
+            "code": "PBLDR"
+        },
+        "name": "Protected Bike Lane - Debris Removal"
+    },
+    {
+        "typeCode": {
+            "name": "Sidewalk Inspection Request",
+            "code": "PBS"
+        },
+        "name": "Sidewalk Inspection Request",
+        "articleId": "ka0t0000000078pAAA"
+    },
+    {
+        "typeCode": {
+            "name": "Street Cleaning Request",
+            "code": "SDP"
+        },
+        "name": "Street Cleaning Request",
+        "articleId": "ka0t0000000078zAAA"
+    },
+    {
+        "typeCode": {
+            "name": "Alley Light Out Complaint",
+            "code": "SFA"
+        },
+        "name": "Alley Light Out Complaint",
+        "articleId": "ka0t000000006rKAAQ"
+    },
+    {
+        "typeCode": {
+            "name": "Street Light On During Day Complaint",
+            "code": "SFN"
+        },
+        "name": "Street Light On During Day Complaint"
+    },
+    {
+        "typeCode": {
+            "name": "Street Light Out Complaint",
+            "code": "SFD"
+        },
+        "name": "Street Light Out Complaint",
+        "articleId": "ka08z0000000HnnAAE"
+    },
+    {
+        "typeCode": {
+            "name": "Street Light Pole Damage Complaint",
+            "code": "SFK"
+        },
+        "name": "Street Light Pole Damage Complaint",
+        "articleId": "ka08z0000000HnsAAE"
+    },
+    {
+        "typeCode": {
+            "name": "Street Light Pole Door Missing Complaint",
+            "code": "SFQ"
+        },
+        "name": "Street Light Pole Door Missing Complaint"
+    },
+    {
+        "typeCode": {
+            "name": "Viaduct Light Out Complaint",
+            "code": "SFC"
+        },
+        "name": "Viaduct Light Out Complaint"
+    },
+    {
+        "typeCode": {
+            "name": "Sign Repair Request - All Other Signs",
+            "code": "PCE"
+        },
+        "name": "Sign Repair Request - All Other Signs",
+        "articleId": "ka08z0000000HniAAE"
+    },
+    {
+        "typeCode": {
+            "name": "Sign Repair -  Base / Bolt Removal",
+            "code": "SIGNREMO"
+        },
+        "name": "Sign Repair Request - Base/Bolt Removal"
+    },
+    {
+        "typeCode": {
+            "name": "Sign Repair Request - Do Not Enter Sign",
+            "code": "PCD"
+        },
+        "name": "Sign Repair Request - Do Not Enter"
+    },
+    {
+        "typeCode": {
+            "name": "Sign Repair Request - One Way Sign",
+            "code": "PCC"
+        },
+        "name": "Sign Repair Request - One Way"
+    },
+    {
+        "typeCode": {
+            "name": "Sign Repair Request - Stop Sign",
+            "code": "PCB"
+        },
+        "name": "Sign Repair Request - Stop Sign",
+        "articleId": "ka08z0000000HneAAE"
+    },
+    {
+        "typeCode": {
+            "name": "Traffic Signal Out Complaint",
+            "code": "SFB"
+        },
+        "name": "Traffic Signal Out Complaint"
+    },
+    {
+        "typeCode": {
+            "name": "Abandoned Vehicle Complaint",
+            "code": "SKA"
+        },
+        "name": "Abandoned Vehicle Complaint",
+        "articleId": "ka0t000000006rAAAQ"
+    },
+    {
+        "typeCode": {
+            "name": "Bicycle Request/Complaint",
+            "code": "PCL"
+        },
+        "name": "Bicycle Requests/Complaints",
+        "articleId": "ka0t000000006roAAA"
+    },
+    {
+        "typeCode": {
+            "name": "City Clerk Feedback Request",
+            "code": "CCFB"
+        },
+        "name": "City Clerk Feedback Request",
+        "articleId": "ka0t0000000g4DPAAY"
+    },
+    {
+        "typeCode": {
+            "name": "City Vehicle Sticker Violation",
+            "code": "QAC"
+        },
+        "name": "City Vehicle Sticker Violation",
+        "articleId": "ka0t0000000074sAAA"
+    },
+    {
+        "typeCode": {
+            "name": "Divvy Bike Parking Complaint",
+            "code": "DBPC"
+        },
+        "name": "Divvy Bike Parking Complaint",
+        "articleId": "ka0t00000004aSgAAI"
+    },
+    {
+        "typeCode": {
+            "name": "E-Scooter Parking Complaint",
+            "code": "ESPC"
+        },
+        "name": "E-Scooter Parking Complaint",
+        "articleId": "ka08z00000007GdAAI"
+    },
+    {
+        "typeCode": {
+            "name": "Vehicle Parked in Bike Lane Complaint",
+            "code": "VBL"
+        },
+        "name": "Vehicle Parked in Bike Lane Complaint",
+        "articleId": "ka0t0000000077SAAQ"
+    }
+]

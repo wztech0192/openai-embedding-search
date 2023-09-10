@@ -1,0 +1,630 @@
+{
+    "input": "im disable and i need help",
+    "matches": [
+        {
+            "name": "Utility/Energy Assistance - Disabilities",
+            "code": "DAU",
+            "similarity": 0.8134252752286963
+        },
+        {
+            "name": "In-Home Services – Disabilities",
+            "code": "DAI",
+            "similarity": 0.8071524457477379
+        },
+        {
+            "name": "Benefit Access Assistance - Disabilities",
+            "code": "DAC",
+            "similarity": 0.7994187209344246
+        },
+        {
+            "name": "Senior Information and Assistance Request",
+            "code": "JAI",
+            "similarity": 0.7950279788156518
+        },
+        {
+            "name": "Transportation Assistance – Disabilities",
+            "code": "DAT",
+            "similarity": 0.7897574940105979
+        },
+        {
+            "name": "Housing Information - Disabilities",
+            "code": "DAS",
+            "similarity": 0.7896702833872747
+        },
+        {
+            "name": "Accessible Home Modifications - Disabilities",
+            "code": "DAH",
+            "similarity": 0.7830637056891361
+        },
+        {
+            "name": "Discrimination/Hate Crimes Assistance Request",
+            "code": "DISH",
+            "similarity": 0.7772264157598514
+        },
+        {
+            "name": "Graffiti Removal Request",
+            "code": "GRAF",
+            "similarity": 0.7673775288798986
+        },
+        {
+            "name": "Weed Removal Request",
+            "code": "SCP",
+            "similarity": 0.7646536103548314
+        },
+        {
+            "name": "Senior Well-Being Check Request",
+            "code": "TBH",
+            "similarity": 0.7624040508040328
+        },
+        {
+            "name": "Dead Bird",
+            "code": "SGV",
+            "similarity": 0.7597337818057424
+        },
+        {
+            "name": "Dead Animal Pick-Up Request",
+            "code": "SGQ",
+            "similarity": 0.757619121418559
+        },
+        {
+            "name": "Report an Injured Animal",
+            "code": "EAQ",
+            "similarity": 0.7540561248426461
+        },
+        {
+            "name": "Tree Debris Clean-Up Request",
+            "code": "SEL",
+            "similarity": 0.7540372951956885
+        },
+        {
+            "name": "Senior Related Literature Request",
+            "code": "JAC",
+            "similarity": 0.7522144502672673
+        },
+        {
+            "name": "Tree Removal Request",
+            "code": "SEE",
+            "similarity": 0.7505608635599149
+        },
+        {
+            "name": "Animal In Trap Complaint",
+            "code": "EBD",
+            "similarity": 0.7494258402348234
+        },
+        {
+            "name": "Bicycle Request/Complaint",
+            "code": "PCL",
+            "similarity": 0.7488841601654562
+        },
+        {
+            "name": "Abandoned Vehicle Complaint",
+            "code": "SKA",
+            "similarity": 0.7460607783622228
+        },
+        {
+            "name": "Yard Waste Pick-Up Request",
+            "code": "SCQ",
+            "similarity": 0.7453406888216779
+        },
+        {
+            "name": "Stray Animal Complaint",
+            "code": "EAE",
+            "similarity": 0.7452266774065838
+        },
+        {
+            "name": "Wire Basket Request",
+            "code": "SCS",
+            "similarity": 0.744989614269099
+        },
+        {
+            "name": "No Air Conditioning",
+            "code": "NAC",
+            "similarity": 0.7441292726935339
+        },
+        {
+            "name": "Bee/Wasp Removal",
+            "code": "SGG",
+            "similarity": 0.7439454897959624
+        },
+        {
+            "name": "Recycling Pick Up",
+            "code": "SRRP",
+            "similarity": 0.7421002037505354
+        },
+        {
+            "name": "Street Light Out Complaint",
+            "code": "SFD",
+            "similarity": 0.7419623261150846
+        },
+        {
+            "name": "Sign Repair Request - Do Not Enter Sign",
+            "code": "PCD",
+            "similarity": 0.7418732694338775
+        },
+        {
+            "name": "Street Cleaning Request",
+            "code": "SDP",
+            "similarity": 0.7418511041415455
+        },
+        {
+            "name": "Pet Wellness Check Request",
+            "code": "PET",
+            "similarity": 0.7414764410525642
+        },
+        {
+            "name": "Coyote Interaction Complaint",
+            "code": "CIAC",
+            "similarity": 0.7408260130750927
+        },
+        {
+            "name": "Daycare Center",
+            "code": "HHC",
+            "similarity": 0.7385741163514563
+        },
+        {
+            "name": "Pothole in Street Complaint",
+            "code": "PHF",
+            "similarity": 0.738303105425659
+        },
+        {
+            "name": "Cable TV Complaint",
+            "code": "OCC",
+            "similarity": 0.7377836415609142
+        },
+        {
+            "name": "Nuisance Animal Complaint",
+            "code": "EAB",
+            "similarity": 0.7376227208995366
+        },
+        {
+            "name": "Tree Planting Request",
+            "code": "SED",
+            "similarity": 0.737619278496443
+        },
+        {
+            "name": "Sign Repair Request - All Other Signs",
+            "code": "PCE",
+            "similarity": 0.7369596828364817
+        },
+        {
+            "name": "Sign Repair Request - One Way Sign",
+            "code": "PCC",
+            "similarity": 0.7369347576490621
+        },
+        {
+            "name": "Traffic Signal Out Complaint",
+            "code": "SFB",
+            "similarity": 0.7367444476444359
+        },
+        {
+            "name": "Sign Repair Request - Stop Sign",
+            "code": "PCB",
+            "similarity": 0.7364843727269559
+        },
+        {
+            "name": "Garbage Cart Maintenance",
+            "code": "SIE",
+            "similarity": 0.7353641021675232
+        },
+        {
+            "name": "Paid Sick Leave Violation",
+            "code": "PSL",
+            "similarity": 0.7353433179284079
+        },
+        {
+            "name": "Landlord/Tenant Info Request",
+            "code": "MTO",
+            "similarity": 0.7352483108995129
+        },
+        {
+            "name": "Clean Vacant Lot Request",
+            "code": "SCT",
+            "similarity": 0.7352393319272996
+        },
+        {
+            "name": "Outdated Merchandise Complaint",
+            "code": "ODM",
+            "similarity": 0.7350060053399078
+        },
+        {
+            "name": "Asbestos Complaint",
+            "code": "VAT",
+            "similarity": 0.7343737048398078
+        },
+        {
+            "name": "Aircraft Noise Complaint",
+            "code": "AVN",
+            "similarity": 0.7342444987408674
+        },
+        {
+            "name": "No Building Permit and Construction Violation",
+            "code": "BBD",
+            "similarity": 0.7336662639371799
+        },
+        {
+            "name": "Fly Dumping Complaint",
+            "code": "SDR",
+            "similarity": 0.7336597441449227
+        },
+        {
+            "name": "Health Club",
+            "code": "HEE",
+            "similarity": 0.7335408900966554
+        },
+        {
+            "name": "Sewer Cave-In Inspection Request",
+            "code": "AAD",
+            "similarity": 0.733537135729196
+        },
+        {
+            "name": "Tanning and Body Art Complaint",
+            "code": "TABA",
+            "similarity": 0.7334656141320213
+        },
+        {
+            "name": "Street Light Pole Damage Complaint",
+            "code": "SFK",
+            "similarity": 0.7331986393096975
+        },
+        {
+            "name": "Clean and Green Program Request",
+            "code": "NAA",
+            "similarity": 0.7331545740745666
+        },
+        {
+            "name": "E-Scooter Parking Complaint",
+            "code": "ESPC",
+            "similarity": 0.7327300163971188
+        },
+        {
+            "name": "Blue Recycling Cart",
+            "code": "SRRC",
+            "similarity": 0.7324439920549324
+        },
+        {
+            "name": "Sidewalk Inspection Request",
+            "code": "PBS",
+            "similarity": 0.7322296223148446
+        },
+        {
+            "name": "Cab Feedback",
+            "code": "CSC",
+            "similarity": 0.7318636049428078
+        },
+        {
+            "name": "Domestic Workers",
+            "code": "DW",
+            "similarity": 0.7318385235640933
+        },
+        {
+            "name": "Recycling Inspection Request",
+            "code": "SCX",
+            "similarity": 0.7315426526162064
+        },
+        {
+            "name": "Alley Pothole Complaint",
+            "code": "PHB",
+            "similarity": 0.7314338974045108
+        },
+        {
+            "name": "Missed Garbage Pick-Up Complaint",
+            "code": "SCC",
+            "similarity": 0.7313794731450981
+        },
+        {
+            "name": "Alley Light Out Complaint",
+            "code": "SFA",
+            "similarity": 0.7309480083673683
+        },
+        {
+            "name": "Street Light On During Day Complaint",
+            "code": "SFN",
+            "similarity": 0.7308023593788757
+        },
+        {
+            "name": "Water On Street Complaint",
+            "code": "AAE",
+            "similarity": 0.7303821812395683
+        },
+        {
+            "name": "Street Light Pole Door Missing Complaint",
+            "code": "SFQ",
+            "similarity": 0.7301548309060732
+        },
+        {
+            "name": "Low Water Pressure Complaint",
+            "code": "WBK",
+            "similarity": 0.7297676092227728
+        },
+        {
+            "name": "Rodent Baiting/Rat Complaint",
+            "code": "SGA",
+            "similarity": 0.7297537547879694
+        },
+        {
+            "name": "Protected Bike Lane - Debris Removal",
+            "code": "PBLDR",
+            "similarity": 0.7296532891885996
+        },
+        {
+            "name": "Lead Inspection Request",
+            "code": "HDF",
+            "similarity": 0.7291409085292224
+        },
+        {
+            "name": "Viaduct Light Out Complaint",
+            "code": "SFC",
+            "similarity": 0.7283715265612619
+        },
+        {
+            "name": "Public Vehicle/Valet Complaint",
+            "code": "CSP",
+            "similarity": 0.7279956858676057
+        },
+        {
+            "name": "Vicious Animal Complaint",
+            "code": "EAF",
+            "similarity": 0.7278782364462135
+        },
+        {
+            "name": "No Solicitation Complaint",
+            "code": "NOSOLCPP",
+            "similarity": 0.7277215673655343
+        },
+        {
+            "name": "Equipment Noise Complaint",
+            "code": "VAH",
+            "similarity": 0.7272106539523712
+        },
+        {
+            "name": "Water Lead Test Kit Request",
+            "code": "WCA2",
+            "similarity": 0.7271155978279122
+        },
+        {
+            "name": "Wage Complaint",
+            "code": "MWC",
+            "similarity": 0.726988897944822
+        },
+        {
+            "name": "Open Fire Hydrant Complaint",
+            "code": "WBT",
+            "similarity": 0.726836878380812
+        },
+        {
+            "name": "Porch Inspection Request",
+            "code": "BPI",
+            "similarity": 0.7268084221154663
+        },
+        {
+            "name": "Ridesharing Complaint",
+            "code": "TNP",
+            "similarity": 0.726057893015269
+        },
+        {
+            "name": "Divvy Bike Parking Complaint",
+            "code": "DBPC",
+            "similarity": 0.726054220092832
+        },
+        {
+            "name": "Bungalow/Vintage Home Information Request",
+            "code": "BUNGALOW",
+            "similarity": 0.7254070456683906
+        },
+        {
+            "name": "Tobacco - General Complaint",
+            "code": "BAG",
+            "similarity": 0.7252596243631891
+        },
+        {
+            "name": "Vacant/Abandoned Building Complaint",
+            "code": "BBK",
+            "similarity": 0.7247984851610267
+        },
+        {
+            "name": "Hotel/Motel - Health Department",
+            "code": "HEA",
+            "similarity": 0.7244210431330932
+        },
+        {
+            "name": "Consumer Fraud Complaint",
+            "code": "CSF",
+            "similarity": 0.7243026770427677
+        },
+        {
+            "name": "Air Pollution, Odor or Dust Complaint",
+            "code": "VAZ",
+            "similarity": 0.7242938973409306
+        },
+        {
+            "name": "Business Complaints",
+            "code": "RBL",
+            "similarity": 0.7242629766308545
+        },
+        {
+            "name": "City Clerk Feedback Request",
+            "code": "CCFB",
+            "similarity": 0.723262567712546
+        },
+        {
+            "name": "Sewer Cleaning Inspection Request",
+            "code": "CHECKFOR",
+            "similarity": 0.7231468406588081
+        },
+        {
+            "name": "Water Quality Concern",
+            "code": "WCA",
+            "similarity": 0.7227594826087832
+        },
+        {
+            "name": "Construction & Demolition Complaint",
+            "code": "VAT5",
+            "similarity": 0.722739592071227
+        },
+        {
+            "name": "Shared Housing/Vacation Rental Complaint",
+            "code": "SHVR",
+            "similarity": 0.7223231645422326
+        },
+        {
+            "name": "Pushcart Food Vendor Complaint",
+            "code": "CORNVEND",
+            "similarity": 0.7223027613116031
+        },
+        {
+            "name": "Vehicle Parked in Bike Lane Complaint",
+            "code": "VBL",
+            "similarity": 0.7220512964948264
+        },
+        {
+            "name": "City Vehicle Sticker Violation",
+            "code": "QAC",
+            "similarity": 0.7217427972237994
+        },
+        {
+            "name": "Fair Workweek",
+            "code": "FWW",
+            "similarity": 0.7213446369050128
+        },
+        {
+            "name": "Water in Basement Complaint",
+            "code": "AAF",
+            "similarity": 0.721118244835897
+        },
+        {
+            "name": "Renters and Foreclosure Complaint",
+            "code": "RFC",
+            "similarity": 0.720798363913792
+        },
+        {
+            "name": "Building Violation",
+            "code": "BBA",
+            "similarity": 0.7206603418621886
+        },
+        {
+            "name": "Home Buyer Program Info Request",
+            "code": "HOP",
+            "similarity": 0.7188520075184948
+        },
+        {
+            "name": "Commercial Fire Safety Inspection Request",
+            "code": "FAC",
+            "similarity": 0.7186140715265359
+        },
+        {
+            "name": "Groceries",
+            "code": "HFC",
+            "similarity": 0.7176432341173425
+        },
+        {
+            "name": "Alley Sewer Inspection Request",
+            "code": "AAI",
+            "similarity": 0.7175142662182736
+        },
+        {
+            "name": "No Water Complaint",
+            "code": "WBJ",
+            "similarity": 0.7173277813813119
+        },
+        {
+            "name": "Restaurant Complaint",
+            "code": "HFB",
+            "similarity": 0.717071867005615
+        },
+        {
+            "name": "Sign Repair -  Base / Bolt Removal",
+            "code": "SIGNREMO",
+            "similarity": 0.7168925709829465
+        },
+        {
+            "name": "Tree Trim Request (NO LONGER BEING ACCEPTED)",
+            "code": "SEF",
+            "similarity": 0.7152260844391142
+        },
+        {
+            "name": "Licensed Pharmaceutical Representative Complaint",
+            "code": "LPRC",
+            "similarity": 0.714760799696358
+        },
+        {
+            "name": "Water Lead Test Visit Request",
+            "code": "WCA3",
+            "similarity": 0.7145891985141384
+        },
+        {
+            "name": "Buildings - Furnace Violation",
+            "code": "BBP",
+            "similarity": 0.71406762480977
+        },
+        {
+            "name": "Consumer Retail Business Complaint",
+            "code": "CST",
+            "similarity": 0.7135909798848113
+        },
+        {
+            "name": "Buildings - Elevator Violation",
+            "code": "BBH",
+            "similarity": 0.7123779330306779
+        },
+        {
+            "name": "Sanitation Code Violation",
+            "code": "SCB",
+            "similarity": 0.712258659179011
+        },
+        {
+            "name": "Gas Station and Storage Tank Complaint",
+            "code": "VAT3",
+            "similarity": 0.7121422095595563
+        },
+        {
+            "name": "Inaccurate Fuel Pump Complaint",
+            "code": "FPC",
+            "similarity": 0.7104453117761287
+        },
+        {
+            "name": "Smoking: Non-Food Establishment",
+            "code": "HFS",
+            "similarity": 0.708956295913667
+        },
+        {
+            "name": "Smokeless Tobacco at Sports Event Complaint",
+            "code": "HFF",
+            "similarity": 0.7081046054801747
+        },
+        {
+            "name": "Tobacco - Sale to Minors Complaint",
+            "code": "BAM",
+            "similarity": 0.7076219224542593
+        },
+        {
+            "name": "Sidewalk Café/Outdoor Dining Complaint",
+            "code": "CAFE",
+            "similarity": 0.7075102435103388
+        },
+        {
+            "name": "Inaccurate Retail Scales Complaint",
+            "code": "INR",
+            "similarity": 0.707293940925813
+        },
+        {
+            "name": "Buildings - Electrical Violation",
+            "code": "BBE",
+            "similarity": 0.7056200660650493
+        },
+        {
+            "name": "Spills or Dumping in Natural Water Ways",
+            "code": "VAT4",
+            "similarity": 0.7020674009081419
+        },
+        {
+            "name": "Buildings - Boiler Violation",
+            "code": "BBB",
+            "similarity": 0.6998931579482885
+        },
+        {
+            "name": "Buildings - Plumbing Violation",
+            "code": "BBC",
+            "similarity": 0.6933554751494685
+        }
+    ]
+}
