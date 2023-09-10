@@ -1,6 +1,7 @@
 // write a nodejs program that read a json file and print it on the console
 
 const fs = require("fs");
+const fetchEmbedding = require("./fetchEmbedding.js");
 
 fs.readFile("serviceRequests.json", "utf8", async (err, data) => {
   if (err) throw err;
@@ -10,26 +11,19 @@ fs.readFile("serviceRequests.json", "utf8", async (err, data) => {
   const embeddingServices = [];
 
   for (const service of services) {
-    if (!service.embedding) {
-      try {
-        console.log("Process embedding for service: " + service.typeCode.code);
-        const payloads = await fetch("https://api.openai.com/v1/embeddings", {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-            Authorization:
-              "Bearer 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",
-          },
-          body: JSON.stringify({
-            input: service.typeCode.name,
-            model: "text-embedding-ada-002",
-          }),
-        });
-        service.embedding = await payloads.json();
-      } catch (ex) {
-        console.error(ex);
-      }
+    //if (!service.embedding) {
+    try {
+      const input = service.typeCode.name.toLowerCase();
+
+      console.log("Process embedding for service: " + input);
+      const payloads = await fetchEmbedding(input);
+      const result = await payloads.json();
+      service.embedding = result.data[0].embedding;
+      service.embeddingModel = result.model;
+    } catch (ex) {
+      console.error(ex);
     }
+    //}
     embeddingServices.push(service);
   }
 
