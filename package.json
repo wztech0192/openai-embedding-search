@@ -4,8 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "shx rm -rf dist && esbuild ./src/lambda.js --entry-names=[dir]/index --bundle --minify --platform=node --target=node16.14 --outdir=dist",
+    "train": "node ./src/generateEmbeddings.js",
+    "cli": "node ./src/cli.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "esbuild": "^0.19.3",
+    "shx": "^0.3.4"
+  }
 }

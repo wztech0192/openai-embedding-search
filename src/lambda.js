@@ -1,7 +1,7 @@
-import fs from "fs";
+import services from "./serviceRequests.json";
 
 export const handler = async (event) => {
-  const input = event?.queryStringParameters?.search;
+  let input = event?.queryStringParameters?.search;
   const similarity = event?.queryStringParameters?.similarity ?? 0.5;
   const topN = event?.queryStringParameters?.top ?? 5;
 
@@ -15,9 +15,6 @@ export const handler = async (event) => {
   if (input.length > 200) {
     input = input.substring(0, 200);
   }
-  const data = await fs.readFileSync(`./embeddings.json`);
-
-  const services = JSON.parse(data);
 
   const result = await fetchEmbedding(input.toLowerCase());
 
