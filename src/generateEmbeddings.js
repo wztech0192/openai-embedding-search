@@ -1,7 +1,7 @@
 // write a nodejs program that read a json file and print it on the console
 
 const fs = require("fs");
-const fetchEmbedding = require("./fetchEmbedding.js");
+const { fetchEmbeddingAsync } = require("./shared.js");
 
 fs.readFile("serviceRequests.json", "utf8", async (err, data) => {
   if (err) throw err;
@@ -12,7 +12,7 @@ fs.readFile("serviceRequests.json", "utf8", async (err, data) => {
   const input = services.map((s) =>
     (s.typeCode.phase || s.typeCode.name).toLowerCase()
   );
-  const payloads = await fetchEmbedding(input);
+  const payloads = await fetchEmbeddingAsync(input);
   const result = await payloads.json();
 
   for (let i = 0; i < result.data.length; i++) {
