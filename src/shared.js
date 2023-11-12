@@ -8,17 +8,19 @@ if (!OPEN_AI_API_KEY) throw new Error("OPEN_AI_API_KEY is not set");
  * @returns
  */
 const fetchEmbeddingAsync = (input) =>
-  fetch("https://api.openai.com/v1/embeddings", {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      Authorization: `Bearer ${OPEN_AI_API_KEY}`,
-    },
-    body: JSON.stringify({
-      input: input,
-      model: "text-embedding-ada-002",
-    }),
-  });
+  fetch(
+    "https://inst-azure-openai-01.openai.azure.com/openai/deployments/buffalo-311/embeddings?api-version=2023-05-15",
+    {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        "api-key": OPEN_AI_API_KEY,
+      },
+      body: JSON.stringify({
+        input: input,
+      }),
+    }
+  );
 
 /**
  *
@@ -49,6 +51,7 @@ const getTopNMatchesAsync = async (
 ) => {
   const result = await fetchEmbeddingAsync(input.toLowerCase());
   const resultPayload = await result.json();
+
   const inputEmbedding = resultPayload.data[0].embedding;
 
   const matches = services
